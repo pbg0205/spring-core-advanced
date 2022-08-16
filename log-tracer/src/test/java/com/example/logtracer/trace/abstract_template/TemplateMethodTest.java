@@ -1,8 +1,8 @@
-package com.example.logtracer.trace.template;
+package com.example.logtracer.trace.abstract_template;
 
-import com.example.logtracer.trace.template.code.AbstractTemplate;
-import com.example.logtracer.trace.template.code.SubClassLogic1;
-import com.example.logtracer.trace.template.code.SubClassLogic2;
+import com.example.logtracer.trace.abstract_template.code.AbstractTemplate;
+import com.example.logtracer.trace.abstract_template.code.SubClassLogic1;
+import com.example.logtracer.trace.abstract_template.code.SubClassLogic2;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package com.example.logtracer.trace.template.code;
+package com.example.logtracer.trace.abstract_template.code;
 
 import lombok.extern.slf4j.Slf4j;
 
